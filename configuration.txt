@@ -1,0 +1,10 @@
+person
+dog
+cow
+0.8
+0.6
+0.50
+test@gmail.com
+192.168.1.37
+LOG.txt
+True
