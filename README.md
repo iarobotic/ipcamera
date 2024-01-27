@@ -8,6 +8,7 @@ Guarda log de detecciones.
 Permite enviar un email con la imagen capturada.
 
 Imagen de la app.
+![Imagen de la app](images/app.png)
 Configuración propia.
 Ejemplo de email.
 Ejemplo de log.
